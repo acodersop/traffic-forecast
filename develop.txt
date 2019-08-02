@@ -1,8 +1,5 @@
 "hello develop"
 add before feature1 merge
-<<<<<<< HEAD
 feature2 modify
-=======
 feature3
 
->>>>>>> feature3
