@@ -1,5 +1,5 @@
 "hello develop"
 add before feature1 merge
 feature2 modify again
-feature3 modify again
+feature6 modify again
 
