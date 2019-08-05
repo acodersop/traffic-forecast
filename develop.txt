@@ -2,4 +2,5 @@
 add before feature1 merge
 feature2 modify again
 feature6+1 modify again
+feature7
 
